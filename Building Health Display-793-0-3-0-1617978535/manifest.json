@@ -1,0 +1,9 @@
+{
+    "name": "BuildingHealthDisplay",
+    "version_number": "0.3.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/793",
+    "description": "Lets you customize the building health bar to change colour based on health and show current / max and percent health. Also optionally lets you show piece integrity and use custom integrity colours. Fully customizable.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100"
+    ]
+}

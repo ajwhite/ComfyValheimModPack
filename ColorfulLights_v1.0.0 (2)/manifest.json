@@ -1,0 +1,9 @@
+{
+    "name": "ColorfulLights",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/ameHJz5PFk",
+    "description": "Color any torch, firepit, stone hearth and bonfire using RGB and HTML color codes. Shoot matching fireworks from colored bonfires.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100"
+    ]
+}

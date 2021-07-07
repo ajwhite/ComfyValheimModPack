@@ -1,0 +1,9 @@
+{
+    "name": "LetMePlay",
+    "version_number": "0.0.5",
+    "website_url": "https://discord.gg/ameHJz5PFk",
+    "description": "Optionally disable ward flashing, camera sway. Inventory breaking items are turned into odin horns.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100"
+    ]
+}
