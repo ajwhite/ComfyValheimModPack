@@ -1,4 +1,5 @@
-This mod is used for the Comfy Valheim server to make installing mods faster.
+This mod is used for the  [Comfy Valheim](https://discord.gg/ameHJz5PFk) server to make installing mods faster.
 
-Mostly this is just a list of mods and it tells the mod manager other mods to install(dependencies). However, a few mods have been repacked into this one for ease of setup.
+Mostly this is just a list of mods and it tells the mod manager other mods to install(dependencies). However, a few mods have been repacked into this one for ease of setup and customizing for our server.
 
+List is managed by JemCopeCodes aka Jemmeh. If you need help feel free to reach out to me on the [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)

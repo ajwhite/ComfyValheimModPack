@@ -1,0 +1,10 @@
+{
+    "name": "CharacterEditButton",
+    "version_number": "0.4.1",
+    "website_url": "https://www.nexusmods.com/valheim/mods/650",
+    "description": "Adds an Edit button to the character selection panel that lets you edit the appearance, sex, and name of existing characters.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "SilentPings",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/secUnd3r/djanis.valheim.mods",
+    "description": "Stops the ping command from spamming the chat box. Pings otherwise work exactly as before.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100"
+    ]
+}

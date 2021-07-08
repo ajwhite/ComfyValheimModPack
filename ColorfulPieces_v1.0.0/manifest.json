@@ -1,0 +1,10 @@
+{
+    "name": "ColorfulPieces",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/ameHJz5PFk",
+    "description": "Color any building piece made with the hammer using RGB and HTML color codes.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+    ]
+}

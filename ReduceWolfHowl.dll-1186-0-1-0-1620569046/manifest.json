@@ -1,0 +1,10 @@
+{
+    "name": "ReduceWolfHowl",
+    "version_number": "0.1.0",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1186",
+    "description": "Reduce the chance of wolves howling.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "SkyTree",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/ameHJz5PFk",
+    "description": "Makes the tree in the sky (Yggdrasil / World Tree) solid and a foundation to build on.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100"
+    ]
+}

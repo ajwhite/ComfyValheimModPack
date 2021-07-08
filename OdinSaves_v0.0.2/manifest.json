@@ -1,0 +1,10 @@
+{
+    "name": "OdinSaves",
+    "version_number": "0.0.2",
+    "website_url": "https://discord.gg/ameHJz5PFk",
+    "description": "Saves character more often so you're less likely to lose progress.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+    ]
+}
