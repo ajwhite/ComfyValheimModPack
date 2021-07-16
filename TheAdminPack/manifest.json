@@ -1,0 +1,25 @@
+{
+    "name": "TheAdminPack",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/JemCopeCodes",
+    "description": "A list of mods generally useful for dedicated server admins.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2",
+        "LVH-IT-UseEquipmentInWater-0.2.2",
+        "Skrip-SkToolbox-1.10.4",
+        "Nexus-MapTeleport-0.4.0",
+        "Cooleyy-EasySpawner-1.4.2",
+        "Nexus-TerrainReset-0.5.1",
+        "mtnewton-Gravekeeper-2.2.0",
+        "Fang86-MoreSlots-1.1.7",
+        "MixoneFinallyHere-BuildExpansion-1.0.8",
+        "AdvizeReupload-PlantEverything-1.6.0",
+        "xAfflict-NonrestrictedPortals-1.2.1",
+        "mtnewton-ItemStacks-1.2.0",
+        "abearcodes-SimpleRecycling-0.0.13",
+        "bakaspaceman-No_Crafting_Station_Restrictions-1.0.0",
+        "purpledxd-SkipIntro-1.0.1",
+        "Menthus-Always_Usable_Crafting_Stations-1.1.0"
+    ]
+}

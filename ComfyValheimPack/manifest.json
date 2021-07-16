@@ -1,6 +1,6 @@
 {
     "name": "ComfyValheimPack",
-    "version_number": "1.0.9",
+    "version_number": "1.1.3",
     "website_url": "https://discord.gg/ameHJz5PFk",
     "description": "A list of mods for use on the Comfy Valheim server.",
     "dependencies": [
@@ -25,12 +25,10 @@
         "Tekla-AutoRepair-5.4.1100",
         "virtuaCode-TrashItems-1.2.3",
         "Masa-BetterUI-2.0.2",
-        "Crystal-BetterChat-1.4.1",
         "virtuaCode-EquipWheel-1.3.4",
         "virtuaCode-EmoteWheel-1.3.0",
         "Nexus-Clock-1.4.3",
         "ontrigger-ValheimPerformanceOptimizations-0.5.2",
-        "M3TO-Gizmo_Reloaded-1.1.3",
         "JereKuusela-Item_Stand_All_Items-1.1.0",
         "Amar1729-BetterLadders-0.2.0",
         "rin_jugatla-Add_All_Fuel_And_Ore_For_Smelter_Charcoalkiln_etc-1.6.2",
@@ -42,6 +40,8 @@
         "FixingDeer-NameYourShip-0.5.4",
         "Menthus-Weightless_Coins-1.0.0",
         "holgeroWolfHowl-ReduceWolfHowl-0.1.0",
-        "aedenthornCharacterEdit-CharacterEditButton-0.4.1"
+        "aedenthornCharacterEdit-CharacterEditButton-0.4.1",
+        "MixoneFinallyHere-BuildExpansion-1.0.8",
+        "MagikarpSushiCandlesLantern-CandlesLanternBeeswax-0.0.1"
     ]
 }

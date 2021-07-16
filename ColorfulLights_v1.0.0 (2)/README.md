@@ -6,6 +6,10 @@
   * You can color any torch, firepit, stone hearth and bonfire using RGB and HTML color codes!
   * Fireworks launched from bonfires will also be colored **AND** visible to others with the mod.
   * Those without the mod will still see yellow torches, green guck torches and standard yellow fireworks.
+  * Color alpha value is now saved and loaded for more transparent lights.
+
+# Configuration
+You can hide the "Change Color" prompt using Configuration Manager if you don't want to see that all the time.
 
 # Instructions
 

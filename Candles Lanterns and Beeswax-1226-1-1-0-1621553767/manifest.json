@@ -1,0 +1,10 @@
+{
+    "name": "CandlesLanternBeeswax",
+    "version_number": "0.0.1",
+    "website_url": "https://www.nexusmods.com/valheim/mods/1226",
+    "description": "Adds new candles and lanterns to the build menu with a custom item recipes - Beeswax.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "JotunnLibTeam-JotunnLib-0.1.7"
+    ]
+}
