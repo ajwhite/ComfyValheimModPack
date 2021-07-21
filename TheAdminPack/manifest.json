@@ -1,6 +1,6 @@
 {
     "name": "TheAdminPack",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "website_url": "https://github.com/JemCopeCodes",
     "description": "A list of mods generally useful for dedicated server admins.",
     "dependencies": [
@@ -20,6 +20,8 @@
         "abearcodes-SimpleRecycling-0.0.13",
         "bakaspaceman-No_Crafting_Station_Restrictions-1.0.0",
         "purpledxd-SkipIntro-1.0.1",
-        "Menthus-Always_Usable_Crafting_Stations-1.1.0"
+        "Menthus-Always_Usable_Crafting_Stations-1.1.0",
+        "LottieVixen-Build_In_Dungeons-1.0.0",
+        "nearbear-WishboneSlot-1.0.3"
     ]
 }
