@@ -16,3 +16,10 @@ To upload to the [Thunderstore Valheim Upload Page](https://valheim.thunderstore
 5. Zip up all the needed files in the folder and upload it to [Thunderstore Valheim Upload Page](https://valheim.thunderstore.io/package/create/)
 
 Thunderstore doens't make it easy to delete mods at the time of this writing. If you need to delete for some reason you'll have to go to their discord and request it be done manually. 
+
+# Adding a mod to the Comfy ModPack
+Be careful with which mods you add to the Comfy Modpack-- people who have it installed will be forced to have all the mods in the pack or else disable the pack (which would stop them from getting future updates). Generally only add mods that everyone will use.
+1. Get all of the files from https://github.com/JemCopeCodes/ComfyValheimModPack/tree/main/ComfyValheimPack
+2. Update the `manifest.json` file by going to the dependencies array and adding another element with the dependecy string(this will be on the Thunderstore mod page) from the mod you wish to add to the pack.
+3. Increase the "version_number" on `manifest.json`
+4. Zip up all the files in this folder(including config and plugins) and upload it on the [Thunderstore Valheim Upload Page](https://valheim.thunderstore.io/package/create/)
