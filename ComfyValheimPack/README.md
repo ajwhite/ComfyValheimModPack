@@ -5,3 +5,7 @@ It does not include all of our allowed mods, just the ones I thought most people
 Mostly this is just a list of mods and it tells the mod manager other mods to install(dependencies). However, a few mods have been repacked into this one for ease of setup and customizing for our server.
 
 List is managed by JemCopeCodes aka Jemmeh. If you need help feel free to reach out to me on the [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+
+Looking for a chill server? Join us on [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+
+Looking for great Valheim servers to play on? Check out our community driven listing site at [https://valheimlist.org](https://valheimlist.org)

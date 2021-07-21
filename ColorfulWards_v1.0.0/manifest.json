@@ -1,6 +1,6 @@
 {
     "name": "ColorfulWards",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://discord.gg/ameHJz5PFk",
     "description": "Color the glow effect of any ward using RGB and HTML color codes. Wards only 30m vertical instead of infinite.",
     "dependencies": [

@@ -19,5 +19,8 @@ You can hide the "Change Color" prompt using Configuration Manager if you don't 
   3. Hover or any torch or fireplace and a prompt to change its color will appear.
   4. Hit `LeftShift + E` to change the color.
 
-Looking for a chill server? Join us on [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
 Github: [https://github.com/redseiko/ComfyMods](https://github.com/redseiko/ComfyMods)
+
+Looking for a chill server? Join us on [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+
+Looking for great Valheim servers to play on? Check out our community driven listing site at [https://valheimlist.org](https://valheimlist.org)

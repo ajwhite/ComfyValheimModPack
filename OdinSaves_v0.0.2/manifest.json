@@ -1,6 +1,6 @@
 {
     "name": "OdinSaves",
-    "version_number": "0.0.2",
+    "version_number": "0.0.3",
     "website_url": "https://discord.gg/ameHJz5PFk",
     "description": "Saves character more often so you're less likely to lose progress.",
     "dependencies": [
