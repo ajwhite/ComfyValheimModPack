@@ -1,0 +1,10 @@
+{
+    "name": "DyeHard",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/redseiko/ComfyMods",
+    "description": "Change your player hair color using RGB values or HTML color codes.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+    ]
+}
