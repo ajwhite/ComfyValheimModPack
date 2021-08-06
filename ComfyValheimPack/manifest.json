@@ -1,6 +1,6 @@
 {
     "name": "ComfyValheimPack",
-    "version_number": "1.1.6",
+    "version_number": "1.1.61",
     "website_url": "https://discord.gg/ameHJz5PFk",
     "description": "A list of mods for use on the Comfy Valheim server.",
     "dependencies": [
@@ -18,7 +18,6 @@
         "ComfyMods-DyeHard-1.0.0",
         "djanisSilentPing-SilentPings-1.0.0",
         "bdew-QuickConnect-1.4.0",
-        "aedenthornBuildingHealthDisplay-BuildingHealthDisplay-0.3.0",
         "OdinPlus-PlantIt-0.1.1",
         "baana-PinFilters-1.2.0",
         "Tekla-ColorfulSigns-5.4.1100",
@@ -44,6 +43,7 @@
         "aedenthornCharacterEdit-CharacterEditButton-0.4.1",
         "MixoneFinallyHere-BuildExpansion-1.0.8",
         "MagikarpSushiCandlesLantern-CandlesLanternBeeswax-0.0.1",
-        "Tekla-RemoveDeathPins-5.4.1100"
+        "Tekla-RemoveDeathPins-5.4.1100",
+        "ComfyMods-EulersRuler-1.1.0"
     ]
 }
