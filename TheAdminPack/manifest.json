@@ -1,6 +1,6 @@
 {
     "name": "TheAdminPack",
-    "version_number": "0.0.21",
+    "version_number": "0.0.22",
     "website_url": "https://github.com/JemCopeCodes",
     "description": "A list of mods generally useful for dedicated server admins.",
     "dependencies": [
@@ -16,7 +16,6 @@
         "MixoneFinallyHere-BuildExpansion-1.0.8",
         "AdvizeReupload-PlantEverything-1.6.0",
         "xAfflict-NonrestrictedPortals-1.2.1",
-        "mtnewton-ItemStacks-1.2.0",
         "bakaspaceman-No_Crafting_Station_Restrictions-1.0.0",
         "purpledxd-SkipIntro-1.0.1",
         "Menthus-Always_Usable_Crafting_Stations-1.1.0",
