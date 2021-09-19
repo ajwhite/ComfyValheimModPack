@@ -1,6 +1,6 @@
 {
     "name": "TorchesAndResin",
-    "version_number": "0.0.5",
+    "version_number": "1.2.0",
     "website_url": "https://discord.gg/ameHJz5PFk",
     "description": "Any newly placed Standing wood torch, Standing iron torch or Sconce starts with 10,000 resin fuel.",
     "dependencies": [
