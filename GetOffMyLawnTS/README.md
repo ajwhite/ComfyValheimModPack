@@ -15,15 +15,14 @@ Set the health of player-placed items in the game to a configurable (default: 10
 - All items placed with the hammer have their health changed. If you're using a mod that spawns things with the hammer such as ore please keep in mind the ore will likely have high health. Simply disable GOML in the configuration manager if you're trying to place normal health ore veins for example.
 - Disabling the mod does not change the health of previously placed/repaired pieces. If you want to lower the health again you'll need to set the health value to low in GOML and repair the piece or activate a ward and everything in the ward radius will be set to that health.
 
-
 ## Links
 
-Github: [https://github.com/redseiko/ComfyMods](https://github.com/redseiko/ComfyMods)
-
-Looking for a chill server? Join us on [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
-
-Looking for great Valheim servers to play on? Check out our community driven listing site at [https://valheimlist.org](https://valheimlist.org)
-
+  * Source code available at:
+    * [Github](https://github.com/redseiko/ComfyMods/tree/main/EulersRuler)
+  * Looking for a chill Valheim server?
+    * Join us on: [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+  * Looking for a great Valheim server to play on?
+    * Check out our community driven listing site at: [valheimlist.org](https://valheimlist.org/)
 
 ## Changelog
 

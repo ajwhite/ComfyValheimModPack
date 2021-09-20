@@ -8,9 +8,22 @@
   * Hiding only the chat window or only the in-world texts can be configured in ConfigurationManager.
 
 ## Links
-Github for Source Code or Bug Reports(Issues): [https://github.com/redseiko/ComfyMods](https://github.com/redseiko/ComfyMods)
 
-Looking for a chill server? Join us on [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+  * Source code available at:
+    * [Github](https://github.com/redseiko/ComfyMods/tree/main/EulersRuler)
+  * Looking for a chill Valheim server?
+    * Join us on: [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+  * Looking for a great Valheim server to play on?
+    * Check out our community driven listing site at: [valheimlist.org](https://valheimlist.org/)
 
+## Changelog
 
-Looking for great Valheim servers to play on? Check out our community driven listing site at [https://valheimlist.org](https://valheimlist.org)
+### 1.1.0
+
+  * Updated for Hearth & Home.
+  * Fixed a possible issue with the toggle shortcut check in `Player.TakeInput()`.
+  * Fixed the ChatWindow popping up with a shout when Silence is turned on, because Chat inherits from Terminal now.
+
+### 1.0.0
+
+  * Initial release.

@@ -1,0 +1,10 @@
+{
+  "name": "Shortcuts",
+  "version_number": "1.1.1",
+  "website_url": "https://github.com/redseiko/ComfyMods/tree/main/EulersRuler",
+  "description": "Re-assign more keyboard shortcuts that are hard-coded/unconfigurable in vanilla. Unbinds kill all.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1500",
+    "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+  ]
+}
