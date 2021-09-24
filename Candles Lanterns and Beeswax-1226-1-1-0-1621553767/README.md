@@ -84,4 +84,17 @@ or my personal discord: https://discord.gg/8VWKqxzp3G
 
 Support/Thank Me:
 
-https://www.patreon.com/MagikarpSushi
+https://www.buymeacoffee.com/MagikarpSushi
+
+## Changelog
+
+### 2.0.0
+
+  * Updated to use new shaders on models and particles. (better performance).
+  * Updated to use JVL.
+  * Updated to be compatible with Hearth and Home.
+  * Added new items.
+  * Added firefly effects to various outdoor lighting.
+  * Slight Recipe Adjustment.
+  * Added LODs to all models.
+  * Removed SFX for candle light sources
