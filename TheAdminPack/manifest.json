@@ -1,6 +1,6 @@
 {
     "name": "TheAdminPack",
-    "version_number": "0.0.23",
+    "version_number": "0.0.25",
     "website_url": "https://github.com/JemCopeCodes",
     "description": "A list of mods generally useful for dedicated server admins.",
     "dependencies": [
@@ -12,12 +12,12 @@
         "Nexus-TerrainReset-0.5.1",
         "mtnewton-Gravekeeper-2.2.0",
         "Fang86-MoreSlots-1.1.7",
-        "MixoneFinallyHere-BuildExpansion-1.0.8",
         "AdvizeReupload-PlantEverything-1.6.0",
         "xAfflict-NonrestrictedPortals-1.2.1",
         "bakaspaceman-No_Crafting_Station_Restrictions-1.0.0",
         "Menthus-Always_Usable_Crafting_Stations-1.1.0",
         "LottieVixen-Build_In_Dungeons-1.0.0",
-        "nearbear-WishboneSlot-1.0.3"
+        "nearbear-WishboneSlot-1.0.3",
+        "ValheimModding-Jotunn-2.3.4"
     ]
 }
