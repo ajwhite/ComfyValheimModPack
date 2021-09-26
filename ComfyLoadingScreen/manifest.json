@@ -1,0 +1,10 @@
+{
+    "name": "ComfyLoadingScreens",
+    "version_number": "0.0.2",
+    "website_url": "https://discord.gg/ameHJz5PFk",
+    "description": "Custom Loading Screens for Comfy Valheim.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1502",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
+    ]
+}

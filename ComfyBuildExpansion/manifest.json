@@ -1,0 +1,10 @@
+{
+    "name": "ComfyBuildExpansion",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/valheimPlus/BuildExpansion",
+    "description": "Allows to expand the Hammer build tables to support mods that add new pieces. Comfy Version Configuration to work with H&H.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1001",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"    
+    ]
+}

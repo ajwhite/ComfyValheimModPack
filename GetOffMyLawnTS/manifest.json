@@ -1,9 +1,10 @@
 {
     "name": "GetOffMyLawn",
-    "version_number": "1.0.1",
+    "version_number": "1.0.11",
     "website_url": "https://github.com/redseiko/ComfyMods",
     "description": "Set the health of player-placed items in the game to a configurable health value. Reduces monster attacks on player objects.",
     "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.1100"
+        "denikson-BepInExPack_Valheim-5.4.1100",
+        "TJzilla-BepInEx_ConfigurationManager-16.1.2"
     ]
 }

@@ -6,6 +6,11 @@ Mostly this is just a list of mods and it tells the mod manager other mods to in
 
 List is managed by JemCopeCodes aka Jemmeh. If you need help feel free to reach out to me on the [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
 
-Looking for a chill server? Join us on [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+## Links
 
-Looking for great Valheim servers to play on? Check out our community driven listing site at [https://valheimlist.org](https://valheimlist.org)
+  * Source code available at:
+    * [Github](https://github.com/redseiko/ComfyMods/tree/main/EulersRuler)
+  * Looking for a chill Valheim server?
+    * Join us on: [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
+  * Looking for a great Valheim server to play on?
+    * Check out our community driven listing site at: [valheimlist.org](https://valheimlist.org/)
