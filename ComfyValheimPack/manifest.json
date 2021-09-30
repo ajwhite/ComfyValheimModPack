@@ -1,6 +1,6 @@
 {
     "name": "ComfyValheimPack",
-    "version_number": "1.1.67",
+    "version_number": "1.1.68",
     "website_url": "https://discord.gg/ameHJz5PFk",
     "description": "A list of mods for use on the Comfy Valheim server.",
     "dependencies": [
@@ -34,6 +34,7 @@
         "MagikarpSushiCandlesLantern-CandlesLanternBeeswax-2.0.0",
         "ComfyMods-EulersRuler-1.2.0",
         "holgeroWolfHowl-ReduceWolfHowl-0.1.0",
-        "RagnarsRokare-RagnarsRokare_AutoPickupSelector-0.4.0"
+        "RagnarsRokare-RagnarsRokare_AutoPickupSelector-0.4.0",
+        "Tekla-AutoRepair-5.4.1602"
     ]
 }
