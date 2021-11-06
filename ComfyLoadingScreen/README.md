@@ -5,8 +5,6 @@ Uses [Aedenthorn's Custom Loading Screens mod.](https://www.nexusmods.com/valhei
 
 ## Links
 
-  * Source code available at:
-    * [Github](https://github.com/redseiko/ComfyMods/tree/main/EulersRuler)
   * Looking for a chill Valheim server?
     * Join us on: [Comfy Valheim Discord](https://discord.gg/ameHJz5PFk)
   * Looking for a great Valheim server to play on?
